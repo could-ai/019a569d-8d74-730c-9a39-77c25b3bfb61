@@ -1,11 +1,11 @@
 {
-    "name": "couldai_user_app",
-    "short_name": "couldai_user_app",
+    "name": "Faith Focus – Stefan",
+    "short_name": "FaithFocus",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#0E1525",
+    "theme_color": "#1F6FEB",
+    "description": "A daily faith and discipline assistant to help you stay focused.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
@@ -18,18 +18,6 @@
             "src": "icons/Icon-512.png",
             "sizes": "512x512",
             "type": "image/png"
-        },
-        {
-            "src": "icons/Icon-maskable-192.png",
-            "sizes": "192x192",
-            "type": "image/png",
-            "purpose": "maskable"
-        },
-        {
-            "src": "icons/Icon-maskable-512.png",
-            "sizes": "512x512",
-            "type": "image/png",
-            "purpose": "maskable"
         }
     ]
 }
